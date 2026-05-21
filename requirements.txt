@@ -1,6 +1,6 @@
 cffi==1.14.5
 chardet==4.0.0
-cockpit==334.2
+cockpit
 configshell-fb==1.1.30
 coverage==7.10.7
 cryptography==36.0.1
